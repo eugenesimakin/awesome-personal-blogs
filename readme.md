@@ -12,6 +12,10 @@ Possibly, have something to read:
 - [Christopher Olah](http://colah.github.io/)
 - [Dan Abramov](https://overreacted.io/)
 - [Tania Rascia](https://www.taniarascia.com/)
+- [Victoria Dev](https://victoria.dev/)
+- [Thomas Hunter II](https://thomashunter.name)
+- [TK](http://leandrotk.github.io/tk)
+
 
 Nothing interesting:
 - [Adam C. Conrad](https://userinterfacing.com/)
@@ -29,23 +33,21 @@ Nothing interesting:
 - [Darren Jennings](https://guuu.io/)
 - [Dave Chaney](https://dave.cheney.net)
 - [Dimitris Raptis](https://raptis.wtf/blog)
+- [Eduards Sizovs](https://sizovs.net)
+- [Tiger Oakes](https://tigeroakes.com/posts/)
+- [Tanner Linsley](https://tannerlinsley.com/)
+- [Terin Stock](https://terinstock.com)
+- [Tiffany R. White Blog](https://tiffanywhite.dev/)
+- [Toma Nistor](https://tomanistor.com/blog)
+- [Travis Bumgarner](https://blog.travisbumgarner.com/)
+- [Trevor Harmon](https://thetrevorharmon.com/)
 
 
 Unsorted:
-- [Tanner Linsley](https://tannerlinsley.com/)
-- [Terin Stock](https://terinstock.com)
-- [Thomas Hunter II](https://thomashunter.name)
 - [Thomas Kekeisen](https://thomaskekeisen.de/en/blog/archive/)
-- [Tiffany R. White Blog](https://tiffanywhite.dev/)
-- [Tiger Oakes](https://tigeroakes.com/posts/)
-- [TK](http://leandrotk.github.io/tk)
-- [Toma Nistor](https://tomanistor.com/blog)
 - [Tony Xu](https://tonyxu.io)
-- [Travis Bumgarner](https://blog.travisbumgarner.com/)
-- [Trevor Harmon](https://thetrevorharmon.com/)
 - [Troy Hunt](https://www.troyhunt.com/)
 - [Victor Gosse](https://code-trotter.com/web/)
-- [Victoria Dev](https://victoria.dev/)
 - [Walker Frederick](https://walkerfrederick.com/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
@@ -79,7 +81,6 @@ Unsorted:
 - [Don Hamilton III](https://blog.donhamiltoniii.com/)
 - [Doğan Uçar](https://www.dogan-ucar.de/category/blog/)
 
-- [Eduards Sizovs](https://sizovs.net)
 - [Eli Bendersky](https://eli.thegreenplace.net)
 - [Elijah Lynn](https://www.elijahlynn.net/)
 - [Eric Jiang](https://lorderikir.me/blog)
