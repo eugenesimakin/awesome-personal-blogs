@@ -5,6 +5,7 @@
 ## Personal Blogs
 
 Possibly, have something to read:
+- [Victor Gosse](https://code-trotter.com/web/)
 - [Adam Rackis](https://adamrackis.dev/)
 - [Benedikt Meurer](https://benediktmeurer.de/) (V8)
 - [Brandon Skerritt](https://skerritt.blog/)
@@ -47,7 +48,6 @@ Unsorted:
 - [Thomas Kekeisen](https://thomaskekeisen.de/en/blog/archive/)
 - [Tony Xu](https://tonyxu.io)
 - [Troy Hunt](https://www.troyhunt.com/)
-- [Victor Gosse](https://code-trotter.com/web/)
 - [Walker Frederick](https://walkerfrederick.com/)
 - [Yegor Bugayenko](https://www.yegor256.com/)
 - [Yomesh Gupta](https://devtools.tech/)
